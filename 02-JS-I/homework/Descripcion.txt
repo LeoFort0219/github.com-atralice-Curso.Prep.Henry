@@ -1,0 +1,15 @@
+Variables
+Las variables son la forma en la que los programadores le ponen nombre a un valor para poder volverlo a usar, actualizarlo o registrarlo. Las variables se pueden usar para guardar datos en JavaScript.
+
+String
+Los string son datos textuales almacenados. Todo texto encerrado entre comillas simples o dobles se lo llama string.  
+
+Funciones (argumentos, `return`)
+La funcion return devuelve un resultado si se introduce la sentencia return resultado; donde resultado es aquello que queremos devolver.
+Los argumentos de las funciones son un conjunto de expresiones separadas por comas, que se emplean para pasar información a las funciones.
+
+Declaraciones `if`
+La sentencia 'if' se usa para declarar, se evaluá básicamente una operación lógica, es decir, una expresión que de como resultado True o False , y ejecuta la pieza de código siguiente siempre y cuando el resultado sea verdadero.
+
+Valores booleanos (`true`, `false`)
+Una variable booleana es una variable que sólo puede tomar dos posibles valores: True (verdadero) o False (falso).d
